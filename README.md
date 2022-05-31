@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sean Wei 
+### Hi there 👋 I'm Full Stack Developer
 
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
